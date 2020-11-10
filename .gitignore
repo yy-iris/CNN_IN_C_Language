@@ -1,0 +1,9 @@
+cFile/.vs
+cFile/conv/.vs
+cFile/conv/Debug
+cFile/conv/conv.*
+cFile/conv/conv/Debug
+cFile/conv/conv/conv.*
+pyFile/.idea
+pyFile/server.py
+pyFile/loc_keras.py
